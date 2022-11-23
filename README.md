@@ -1,5 +1,7 @@
 # OASISPRO
 
+![Screenshot of Device in Therapy](/Documentation/Screen_1.png"Screenshot of Device in Therapy")
+
 Project - OasisPro medical device simulation
 
 Name: Patrick McGinnis
