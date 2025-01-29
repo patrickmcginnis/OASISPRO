@@ -4,31 +4,6 @@
 
 Project - OasisPro medical device simulation
 
-Name: Patrick McGinnis
-ID: 101172946
-	-ui (helped with design, designed the recording display)
-	-program logic (implementing/running/recording a session, display of recordings, battery implementation)
-	--documentation (use cases)
-  
-Name: Avetik Kocharyan
-ID: 100793437
-	-ui (design of scaffold, buttons and icons)
-	-program logic (battery and various other displays, turn on/off, connecton test, button functionalities, saving prefered intensities)
-	-documentation (uml class diagram, traceability matrix, readme)
-
-Name: Tristan Dardani
-ID: 101172946
-	-session class integration
-	-documentation (use cases, use case diagram, sequence diagrams)
-	-helped with overall project design/structure
-
-Name: Daniel Yang
-ID: 101194970
-	-ui (debugging of certain features)
-	-program logic (battery, bar graph)
-	-documentation (traceability matrix)
-
-
 Instructions: (code compiles and runs)
 	-> Build and run on QT creator in the course vm.
 
